@@ -1,1 +1,2 @@
 # visual-spatial-potential
+These two codes were written as part of my coursework on the topic: "Urban Landforms Development and Their Visual Potential: a Spatial Analysis". They help to calculate the visual-spatial potential of the urban area. For the calculation, you will need to create a grid of points for the city with a step equal to the resolution of the raster file with the city's relief and two vector layers with accessibility buffers from grid points, I use a buffer of 500m and 1500m.
